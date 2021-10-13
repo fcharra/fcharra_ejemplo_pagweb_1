@@ -10,14 +10,25 @@ body {
 }
 
 article {
-    margin: auto;
+    margin: 10% auto;
     display: block;
     width: 90%;
     background-color: #fffcad;
+    border: 1px solid #000000;
+    padding: 12px;
 }
 
 figcaption {
     font-style: italic;
     font-size: 0.9em;
     margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-bottom: 6px;
 }
