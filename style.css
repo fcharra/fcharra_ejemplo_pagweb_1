@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    color: #2a150d;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+article {
+    margin: auto;
+    display: block;
+    width: 90%;
+    background-color: #fffcad;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 6px;
+}
